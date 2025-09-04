@@ -184,7 +184,7 @@ export function isWsPong(msg: any): boolean {
   );
 }
 
-export const APIID = '';
+export const APIID = 'Do000859';
 
 /**
  * Used to switch how authentication/requests work under the hood (primarily for SPOT since it's different there)
